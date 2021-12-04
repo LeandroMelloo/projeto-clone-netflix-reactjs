@@ -1,2 +1,2 @@
-# projeto_crawler_nodejs_puppeteer_docker
-Projeto Web Crawler Nodejs Puppetee
+# projeto_clone_netflix_reactjs
+Clone do NETFLIX em REACTJS para Iniciantes
